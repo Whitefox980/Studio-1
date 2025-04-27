@@ -1,0 +1,28 @@
+{
+  "name": "studio-1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.4.0",
+    "framer-motion": "^10.16.4",
+    "@headlessui/react": "^1.7.15",
+    "lucide-react": "^0.324.0",
+    "@shadcn/ui": "latest",
+    "@upstash/redis": "latest",
+    "@google/generative-ai": "latest",
+    "next-themes": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "typescript": "latest"
+  }
+}

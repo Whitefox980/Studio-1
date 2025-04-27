@@ -1,0 +1,1 @@
+CREATE INDEX idx_travel_queries ON searches(query_text);
